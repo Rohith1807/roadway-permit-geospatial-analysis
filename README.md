@@ -22,6 +22,10 @@ The 106 overlapping subblocks represent locations where construction permit acti
 
 These results reflect the source data and documented roadway-assignment methodology used in this submission.
 
+<img width="454" height="406" alt="Screenshot 2026-10-15 194759" src="https://github.com/user-attachments/assets/c3af6a6d-c4e3-44ee-a562-e119788a2939" />
+
+<img width="532" height="277" alt="Screenshot 2026-10-15 194819" src="https://github.com/user-attachments/assets/6907bc8e-df3a-4a6d-8503-7ed0063c1318" />
+
 ## 3. Data Sources and Filtering
 
 Three DC GIS REST services were used:
